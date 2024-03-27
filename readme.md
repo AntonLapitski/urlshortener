@@ -43,13 +43,6 @@ UrlHub прилоение на ларавель. Требования:
 
    Please note that this project uses Yarn as the package manager, so you can't find the package-lock.json file that is needed by NPM.
 
-## Contributing
-The people who contribute to UrlHub do so for the love of open source, our users and ecosystem, and most importantly, pushing the web forward together. Developers like you can help by contributing to rich and vibrant documentation, issuing pull requests to help us cover niche use cases, and to help sustain what you love about UrlHub.
-
-Anybody can help by doing any of the following:
-- Ask your employer to use UrlHub in projects.
-- Contribute to the core repository.
-
 ### Running Tests
 
 From the projects root folder run
